@@ -90,8 +90,8 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {123456789,987654321,647032192, sudo_id},
-    admins = {},
+    sudo_users = {410083841, sudo_id},
+    admins = {291058396},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Reborn v6.0
